@@ -21,7 +21,7 @@ The first step of the analysis consisted in finding patterns or correlation betw
 
 This resulted in the followting chart:
 
-![Launch Date](\Resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/AxisAngeles/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 Based on this, it's possible to see that campaigns launched between May and July tend to be more successfull which was not the case for our client's _FEVER_ play.
 
@@ -31,7 +31,7 @@ On the other hand, the Outcomes analysis revealed that the second hypothesis was
 
 When analyzed, the Goal factor didn't seem to be relevant to find the reason for the failed result as shown on the next graph:
 
-![Goal Outcomes](\Resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/AxisAngeles/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
